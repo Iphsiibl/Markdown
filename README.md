@@ -1,4 +1,4 @@
-# Mark语法
+# Markdown语法
 
 ## 一、标题
 
